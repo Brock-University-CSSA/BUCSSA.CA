@@ -1586,3 +1586,13 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+/* 2020/04/04 悼念 */
+
+html {
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+}
